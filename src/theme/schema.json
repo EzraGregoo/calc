@@ -1,0 +1,67 @@
+{
+    "data": {
+        "first": {
+            "id": "theme_1",
+            "name": "first",
+            "colors": {
+                "mainBg": "hsl(222, 26%, 31%)",
+                "toggleKeyBg": "hsl(223, 31%, 20%)",
+                "screenBg": "hsl(224, 36%, 15%)",
+                "switcher": "hsl(223, 31%, 20%)",
+                "switcherTgl": "hsl(6, 63%, 50%)",
+                "firstKeyBg": "hsl(30, 25%, 89%)",
+                "firstKeyShadow": "hsl(28, 16%, 65%)",
+                "secKeyBg": "hsl(225, 21%, 49%)",
+                "secKeyShadow": "hsl(224, 28%, 35%)",
+                "thirdKeyBg": "hsl(6, 63%, 50%)",
+                "thirdKeyShadow": "hsl(6, 70%, 34%)",
+                "firstToggleTxt": "hsl(221, 14%, 31%)",
+                "secToggleTxt": "white",
+                "thirdToggleTxt": "white",
+                "screenTxt": "white"
+            }
+        },
+        "second": {
+            "id": "theme_2",
+            "name": "second",
+            "colors": {
+                "mainBg": "hsl(0, 0%, 90%)",
+                "toggleKeyBg": "hsl(0, 5%, 81%)",
+                "screenBg": "hsl(0, 0%, 93%)",
+                "switcher": "hsl(0, 5%, 81%)",
+                "switcherTgl": "hsl(25, 98%, 40%)",
+                "firstKeyBg": "hsl(45, 7%, 89%)",
+                "firstKeyShadow": "hsl(35, 11%, 61%)",
+                "secKeyBg": "hsl(185, 42%, 37%)",
+                "secKeyShadow": "hsl(185, 58%, 25%)",
+                "thirdKeyBg": "hsl(25, 98%, 40%)",
+                "thirdKeyShadow": "hsl(25, 99%, 27%)",
+                "firstToggleTxt": "hsl(60, 10%, 19%)",
+                "secToggleTxt": "white",
+                "thirdToggleTxt": "white",
+                "screenTxt": "hsl(60, 10%, 19%)"
+            }
+        },
+        "third": {
+            "id": "theme_3",
+            "name": "third",
+            "colors": {
+                "mainBg": "hsl(268, 75%, 9%)",
+                "toggleKeyBg": "hsl(268, 71%, 12%)",
+                "screenBg": "hsl(268, 71%, 12%)",
+                "switcher": "hsl(268, 71%, 12%)",
+                "switcherTgl": "hsl(176, 100%, 44%)",
+                "firstKeyBg": "hsl(268, 47%, 21%)",
+                "firstKeyShadow": "hsl(290, 70%, 36%)",
+                "secKeyBg": "hsl(281, 89%, 26%)",
+                "secKeyShadow": "hsl(285, 91%, 52%)",
+                "thirdKeyBg": "hsl(176, 100%, 44%)",
+                "thirdKeyShadow": "hsl(177, 92%, 70%)",
+                "firstToggleTxt": "hsl(52, 100%, 62%)",
+                "secToggleTxt": "white",
+                "thirdToggleTxt": "hsl(198, 20%, 13%)",
+                "screenTxt": "hsl(52, 100%, 62%)"
+            }
+        }
+    }
+}
